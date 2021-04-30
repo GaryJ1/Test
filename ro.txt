@@ -7,3 +7,5 @@ Arigato gousaimas
 Ohaio
 
 Priviet
+
+E = mc^2
