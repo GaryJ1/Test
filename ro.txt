@@ -7,3 +7,7 @@ Arigato gousaimas
 Ohaio
 
 Priviet
+
+E = mc^2
+ 
+c = a^2 + b^2
